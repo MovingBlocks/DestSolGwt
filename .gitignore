@@ -26,6 +26,13 @@ tmp/
 .externalToolBuilders/
 *.launch
 
+## Intellij
+.idea/
+*.ipr
+*.iws
+*.iml
+out/
+
 ## NetBeans
 **/nbproject/private/
 build/
